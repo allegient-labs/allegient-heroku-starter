@@ -1,0 +1,27 @@
+{
+  "name": "allegient-heroku-starter",
+  "version": "0.0.1",
+  "description": "A starter kit for heroku/salesforce applications using node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameron-ames/allegient-heroku-starter.git"
+  },
+  "keywords": [
+    "Allegient",
+    "Heroku",
+    "Salesforce",
+    "Javascript",
+    "Node",
+    "React",
+    "Angular"
+  ],
+  "author": "Alex Bariyev and Cameron Ames",
+  "bugs": {
+    "url": "https://github.com/cameron-ames/allegient-heroku-starter/issues"
+  },
+  "homepage": "https://github.com/cameron-ames/allegient-heroku-starter#readme"
+}
