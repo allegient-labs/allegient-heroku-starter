@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/cameron-ames/allegient-heroku-starter/issues"
   },
-  "homepage": "https://github.com/cameron-ames/allegient-heroku-starter#readme"
+  "homepage": "https://github.com/cameron-ames/allegient-heroku-starter#readme",
+  "dependencies": {
+    "jsforce": "^1.7.1"
+  }
 }
