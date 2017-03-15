@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/cameron-ames/allegient-heroku-starter#readme",
   "dependencies": {
+    "express": "^4.15.2",
     "jsforce": "^1.7.1"
   }
 }
