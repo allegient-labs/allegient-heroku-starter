@@ -1,0 +1,22 @@
+{
+    "root": true,
+    "extends": [
+        "airbnb",
+        "plugin:import/errors",
+        "plugin:import/warnings"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 7,
+        "sourceType": "module"
+    },
+    "env": {
+        "browser": true,
+        "node": true,
+        "mocha": true
+    },
+    "rules": {
+        "func-names": ["error", "never"],
+        "import/no-extraneous-dependencies": 0,
+        "no-console": 1
+    }
+}
